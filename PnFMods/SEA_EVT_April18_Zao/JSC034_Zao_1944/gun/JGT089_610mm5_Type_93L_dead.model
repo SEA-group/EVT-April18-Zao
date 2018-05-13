@@ -1,0 +1,8 @@
+<JGT089_610mm5_Type_93L_dead.model>
+	<parent>	content/gameplay/japan/gun/torpedo/JGT599_610mm5_Type_93L_Space/lods/JGT599_610mm5_Type_93L_Space_dead_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/japan/gun/torpedo/JGT599_610mm5_Type_93L_Space/JGT599_610mm5_Type_93L_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGT089_610mm5_Type_93L_dead.model>

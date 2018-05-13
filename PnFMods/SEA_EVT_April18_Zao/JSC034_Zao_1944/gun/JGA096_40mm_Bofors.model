@@ -1,0 +1,9 @@
+<JGA096_40mm_Bofors.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/gun/aaircraft/JGA594_40mm_Bofors/lods/JGA594_40mm_Bofors_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/japan/gun/aaircraft/JGA594_40mm_Bofors/JGA594_40mm_Bofors	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA096_40mm_Bofors.model>

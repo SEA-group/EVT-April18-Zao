@@ -1,0 +1,9 @@
+<JSC034_Zao_1944.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/ship/cruiser/JSC039_Zao_Space/lods/JSC039_Zao_Space_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/ship/cruiser/JSC039_Zao_Space/JSC039_Zao_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSC034_Zao_1944.model>

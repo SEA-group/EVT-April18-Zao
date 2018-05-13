@@ -1,0 +1,13 @@
+<JGA010_25mm_Type96.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/gun/aaircraft/JGA598_25mm_Type96_Space/lods/JGA598_25mm_Type96_Space_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.071349 -0.000000 -0.049462	</min>
+		<max>	0.072074 0.131411 0.100144	</max>
+	</visibilityBox>
+	<nodefullVisual>	content/gameplay/japan/gun/aaircraft/JGA598_25mm_Type96_Space/JGA598_25mm_Type96_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA010_25mm_Type96.model>

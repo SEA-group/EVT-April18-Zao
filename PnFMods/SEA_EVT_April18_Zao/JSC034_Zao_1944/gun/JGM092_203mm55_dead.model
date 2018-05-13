@@ -1,0 +1,9 @@
+<JGM092_203mm55_dead.model>
+	<parent>	content/gameplay/japan/gun/main/JGM595_203mm55_Space/lods/JGM595_203mm55_Space_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/japan/gun/main/JGM595_203mm55_Space/JGM595_203mm55_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM092_203mm55_dead.model>

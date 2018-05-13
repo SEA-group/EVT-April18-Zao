@@ -1,0 +1,13 @@
+<JC002_Catapult.model>
+	<extent>	3.0000	</extent>
+	<parent>	content/gameplay/japan/catapult/JC005_Catapult_Space/lods/JC005_Catapult_Space_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.110898 0.000000 -0.465673	</min>
+		<max>	0.114191 0.158818 0.857225	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/japan/catapult/JC005_Catapult_Space/JC005_Catapult_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JC002_Catapult.model>

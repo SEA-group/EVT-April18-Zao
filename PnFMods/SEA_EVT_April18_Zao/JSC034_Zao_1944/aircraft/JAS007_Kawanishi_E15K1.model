@@ -1,0 +1,9 @@
+<JAS007_Kawanishi_E15K1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/aircraft/scout/JAS500_Star_Fighter_Space/lods/JAS500_Star_Fighter_Space_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/aircraft/scout/JAS500_Star_Fighter_Space/JAS500_Star_Fighter_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAS007_Kawanishi_E15K1.model>

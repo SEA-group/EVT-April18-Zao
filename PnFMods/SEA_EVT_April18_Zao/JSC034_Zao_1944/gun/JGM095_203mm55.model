@@ -1,0 +1,9 @@
+<JGM095_203mm55.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/gun/main/JGM600_203mm55_Space/lods/JGM600_203mm55_Space_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/gun/main/JGM600_203mm55_Space/JGM600_203mm55_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM095_203mm55.model>

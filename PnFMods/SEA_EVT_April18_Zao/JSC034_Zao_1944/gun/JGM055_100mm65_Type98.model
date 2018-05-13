@@ -1,0 +1,9 @@
+<JGM055_100mm65_Type98.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/japan/gun/main/JGM596_100mm65_Type98_Space/lods/JGM596_100mm65_Type98_Space_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/japan/gun/main/JGM596_100mm65_Type98_Space/JGM596_100mm65_Type98_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM055_100mm65_Type98.model>
